@@ -1,0 +1,1 @@
+gcc -Ofast -fopenmp sensor_challenge.c -o sensor_challenge
